@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Mariia
 ### I'm currently studying as a front-end developer
 ### My last projects:
+- <a href="https://rolling-scopes-school.github.io/filisinia-JSFE2023Q4/rss-puzzle" target="_blank">RSS-Puzzle</a>
 - <a href="https://rolling-scopes-school.github.io/filisinia-JSFE2023Q4/nonograms/" target="_blank">Nonograms</a>
 - <a href="https://rolling-scopes-school.github.io/filisinia-JSFE2023Q4/hangman/" target="_blank">Hangman</a>
 - <a href="https://rolling-scopes-school.github.io/filisinia-JSFE2023Q4/coffee-house/main/" target="_blank">Coffee House</a>
