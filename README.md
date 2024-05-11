@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Mariia
-### I'm currently studying as a front-end developer
+### I'm a front-end developer
 ### My recent projects:
 - <a href="https://rolling-scopes-school.github.io/filisinia-JSFE2023Q4/fun-chat/#/login" target="_blank">Fun Chat</a>
 - <a href="https://rolling-scopes-school.github.io/filisinia-JSFE2023Q4/rss-puzzle" target="_blank">RSS-Puzzle</a>
