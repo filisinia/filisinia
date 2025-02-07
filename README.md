@@ -1,11 +1,5 @@
 ## Hi there 👋, I'm Mariia
-I'm a passionate Front End Developer with 2.5 years experience and a talent for crafting
-dynamic, interactive web applications using JavaScript, React.js and Next.js. Skilled
-in transforming ideas into intuitive, user-friendly digital experiences, with a
-commitment to creating scalable, maintainable solutions that blend function with
-aesthetic appeal. Known for a disciplined approach, strong organization, and
-reliability in meeting all project deadlines. Ready to bring your vision to life with
-clean, impactful code and creative problem-solving.
+I'm a Front-End Developer specializing in React ⚛️. I love turning ideas into functional and visually appealing web applications. Focused on writing clean, maintainable code, optimizing performance, and creating an excellent user experience. I'm always striving to learn and improve my skills 🚀
 ### 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
