@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Mariia
-I'm a Front-End Developer specializing in React ⚛️. I love turning ideas into functional and visually appealing web applications. Focused on writing clean, maintainable code, optimizing performance, and creating an excellent user experience. I'm always striving to learn and improve my skills 🚀
+I'm a Front-End Developer specializing in React ⚛️
+
+Love turning ideas into functional and visually appealing web applications. Focused on writing clean, maintainable code, optimizing performance, and creating an excellent user experience. I'm always striving to improve my skills 🚀
 ### 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
